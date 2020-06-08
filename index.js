@@ -1,6 +1,6 @@
 
 function happyHolidays() {
-  return console.log("Happy holidays!");
+  return console.log('"Happy holidays!"');
 }
 
 function happyHolidaysTo(name) {
